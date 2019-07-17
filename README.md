@@ -8,7 +8,7 @@ A new Flutter-demo project.
 
 ``` bash
 # Configure the environment
-[Flutter 环境配置](https://flutterchina.club/get-started/editor/)
+https://flutterchina.club/get-started/editor/
 
 # clone
 git clone https://github.com/lanzhsh/Flutter-demo.git
