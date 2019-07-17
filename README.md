@@ -1,16 +1,22 @@
-# flutter_demo
+## Flutter-demo
 
-A new Flutter project.
+A new Flutter-demo project.
+
+![flutter-mobile](https://github.com/lanzhsh/Flutter-demo/blob/master/images/flutter-demo.jpg)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+``` bash
+# Configure the environment
+[Flutter 环境配置](https://flutterchina.club/get-started/editor/)
 
-A few resources to get you started if this is your first Flutter project:
+# clone
+git clone https://github.com/lanzhsh/Flutter-demo.git
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Vscode运行
+打开 Xcode 或者 Android-Studio 的模式器，f5 运行
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+# Android-Studio运行
+打开项目，运行
+```
+
